@@ -1,6 +1,6 @@
 name : Test artifact
 
-on: merge_group
+on: push
 
 jobs : 
   build : 
